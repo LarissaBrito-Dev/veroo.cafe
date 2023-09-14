@@ -10,7 +10,7 @@ Desenvolvi um site de café com HTML e CSS. (https://larissabrito-dev.github.io/
 
 ## 📌 Site
 
-[Acesse o Site Oficial da Loja [Veroo Café] clicando aqui (https://veroo.com.br/)
+Acesse o Site Oficial da Loja Veroo Café clicando aqui (https://veroo.com.br/)
 
 ## 🚀 Tecnologias
 
