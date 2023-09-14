@@ -1,4 +1,4 @@
-<strong><h1 align="center">Veroo Cafés</h1></strong>
+<strong><h1 align="center">Veroo Café</h1></strong>
 
 <p align="center">
   <img alt="" src=".github/preview.jpg" width="100%">
@@ -6,11 +6,11 @@
 
 ## 💻 Projeto
 
-Desenvolvi um site de café com HTML e CSS. ()
+Desenvolvi um site de café com HTML e CSS.(https://larissabrito-dev.github.io/veroo.cafe/)
 
-## Site
+## 📌 Site
 
-[Acesse o Site Oficial da Loja [Veroo Cafés] clicando aqui](https://veroo.com.br/)
+[Acesse o Site Oficial da Loja [Veroo Café] clicando aqui](https://veroo.com.br/)
 
 ## 🚀 Tecnologias
 
