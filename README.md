@@ -6,7 +6,7 @@
 
 ## 💻 Projeto
 
-Desenvolvi um site de café com HTML e CSS. (https://larissabrito-dev.github.io/veroo.cafe/)
+Desenvolvi um site de café. (https://larissabrito-dev.github.io/veroo.cafe/)
 
 ## 📌 Site
 
